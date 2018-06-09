@@ -1,0 +1,20 @@
+{
+  "name": "doxygenate",
+  "main": "./lib/doxygenate",
+  "version": "0.0.1",
+  "description": "Automatically genrates Doxygen comment blocks.",
+  "keywords": [
+    "doxygen",
+    "auto",
+    "complete"
+  ],
+  "activationCommands": {
+  },
+  "repository": "https://github.com/atom/doxygenate",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  },
+  "dependencies": {
+  }
+}

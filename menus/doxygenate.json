@@ -1,0 +1,63 @@
+{
+  "context-menu": {
+    "atom-text-editor": [
+      {
+        "label": "Doxygenate",
+        "submenu": [
+          {
+            "label": "Smart Insert",
+            "command": "doxygenate:run"
+          },
+          {
+            "label": "File Block",
+            "command": "doxygenate:insertFileBlock"
+          },
+          {
+            "label": "Class Block",
+            "command": "doxygenate:insertClassBlock"
+          },
+          {
+            "label": "Function Block",
+            "command": "doxygenate:insertFunctionBlock"
+          },
+          {
+            "label": "Member Block",
+            "command": "doxygenate:insertMemberBlock"
+          }
+        ]
+      }
+    ]
+  },
+  "menu": [
+    {
+      "label": "Packages",
+      "submenu": [
+        {
+          "label": "Doxygenate",
+          "submenu": [
+            {
+              "label": "Smart Insert",
+              "command": "doxygenate:run"
+            },
+            {
+              "label": "File Block",
+              "command": "doxygenate:insertFileBlock"
+            },
+            {
+              "label": "Class Block",
+              "command": "doxygenate:insertClassBlock"
+            },
+            {
+              "label": "Function Block",
+              "command": "doxygenate:insertFunctionBlock"
+            },
+            {
+              "label": "Member Block",
+              "command": "doxygenate:insertMemberBlock"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

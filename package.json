@@ -5,8 +5,11 @@
   "description": "Automatically genrates Doxygen comment blocks intelligently",
   "keywords": [
     "doxygen",
+    "comment",
     "auto",
-    "complete"
+    "complete",
+    "autocomplete",
+    "insert",
   ],
   "activationCommands": {
   },

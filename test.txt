@@ -1,9 +1,0 @@
-/**
- * @file	test.txt
- * @brief	{short description of file}
- */
-
- thing {
-    th
-    th
- }

@@ -1,4 +1,5 @@
 {
   "atom-workspace": {
+    "ctrl-alt-d": "doxygenate:run"
   }
 }

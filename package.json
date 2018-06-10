@@ -2,7 +2,7 @@
   "name": "doxygenate",
   "main": "./lib/doxygenate",
   "version": "0.0.1",
-  "description": "Automatically genrates Doxygen comment blocks.",
+  "description": "Automatically genrates Doxygen comment blocks intelligently",
   "keywords": [
     "doxygen",
     "auto",

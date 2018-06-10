@@ -10,7 +10,7 @@
   ],
   "activationCommands": {
   },
-  "repository": "https://github.com/atom/doxygenate",
+  "repository": "https://github.com/outoftolerance/doxygenate",
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
